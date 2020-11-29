@@ -1,0 +1,40 @@
+body {
+background-color: rgb(0, 128, 128); 
+color: rgb(188, 143, 143);
+font-family: Arial;
+font-size: 17px;
+font-weight: lighter;
+}
+
+h1, h2, h3 {
+	font-family: arial;
+}
+h1 {
+	color: rgb(188, 143, 143);
+	font-size: 32px;
+	font-weight: 900;
+	
+}
+
+h2 {
+	color: rgb(188, 143, 143);
+	font-size: 32px;
+	font-weight: lighter;
+	font-weight: 900;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: rgb(128, 128, 0);
+}
+
+div {
+	background: 
+	border: ;
+}
+
+.img-circle {
+	border-radius: 50%
+}
